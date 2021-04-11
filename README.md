@@ -1,2 +1,8 @@
 # sort_visualizer
-🐾 Different array sorting algorithms
+
+# Available algorithms
+- Bubble sort
+- Insertion sort
+- Selection sort
+- Merge sort
+- Quick sort
